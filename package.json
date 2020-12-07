@@ -1,0 +1,33 @@
+{
+  "name": "bonnefooi",
+  "version": "1.0.0",
+  "description": "Get and set nested nonexistent object properties without errors.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperimentalCyborg/bonnefooi.git"
+  },
+  "keywords": [
+    "proxy",
+    "nested",
+    "get",
+    "set",
+    "property",
+    "member",
+    "property access",
+    "member access",
+    "blind access",
+    "blind",
+    "auto",
+    "auto create",
+    "good faith",
+    "bonnefooi"
+  ],
+  "author": "ExperimentalCyborg (https://github.com/ExperimentalCyborg/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ExperimentalCyborg/bonnefooi/issues"
+  },
+  "homepage": "https://github.com/ExperimentalCyborg/bonnefooi#readme",
+  "dependencies": {}
+}
