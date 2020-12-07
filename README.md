@@ -1,8 +1,12 @@
 # Bonnefooi
 
-Bonnefooi lets you access nonexistent object properties in javascript.
+This npm package lets you access nonexistent object properties in javascript.
+
+Bonnefooi is Dutch for going on a journey without planning ahead.
 
 ## Usage
+`npm install bonnefooi`
+
 When you try to access a nonexistent member, it will automatically be initialized as an empty object. This means you can safely do this:
 ```javascript
 const bonnefooi = require('bonnefooi');
